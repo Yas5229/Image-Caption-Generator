@@ -1,0 +1,11 @@
+streamlit
+tensorflow==2.15.0
+pyttsx3
+numpy
+pandas
+scikit-learn
+Pillow
+keras
+joblib
+h5py
+imageio
